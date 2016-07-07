@@ -4,6 +4,9 @@
 - [Lexical Analysis](#lexical-analysis)
 - [SpriteKit](#spritekit)
 
+## Game Math
+- [Intersecting a straight line using 2-point form](http://math.stackexchange.com/a/729442/83716)
+
 ## Lexical Analysis
 - [XML Lexemes](http://stackoverflow.com/a/3623486)
 
