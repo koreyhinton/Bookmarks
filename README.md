@@ -1,10 +1,14 @@
 # Bookmarks
 
 ## Categories
+- [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Functional Programming](#functional-programming)
 - [Lexical Analysis](#lexical-analysis)
 - [SpriteKit](#spritekit)
+
+## Algorithms
+- [LeetCode Swift](https://github.com/soapyigu/LeetCode_Swift)
 
 ## Artificial Intelligence
 - [https://github.com/thieman/korhal](Functional Starcraft AI)
