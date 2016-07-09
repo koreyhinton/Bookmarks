@@ -3,6 +3,7 @@
 ## Categories
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
+- [Gaming](#gaming)
 - [Functional Programming](#functional-programming)
 - [Lexical Analysis](#lexical-analysis)
 - [SpriteKit](#spritekit)
@@ -21,6 +22,9 @@
 
 ## Game Math
 - [Intersecting a straight line using 2-point form](http://math.stackexchange.com/a/729442/83716)
+
+## Gaming
+- [itch.io](http://itch.io) - Game store
 
 ## Lexical Analysis
 - [XML Lexemes](http://stackoverflow.com/a/3623486)
