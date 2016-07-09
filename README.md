@@ -1,8 +1,19 @@
 # Bookmarks
 
 ## Categories
+- [Artificial Intelligence](#artificial-intelligence)
+- [Functional Programming](#functional-programming)
 - [Lexical Analysis](#lexical-analysis)
 - [SpriteKit](#spritekit)
+
+## Artificial Intelligence
+- [https://github.com/thieman/korhal](Functional Starcraft AI)
+- bwapi
+- [https://github.com/JNIBWAPI/JNIBWAPI](JNIBWAPI) in Java
+
+## Functional Programming
+- [miniKanren](http://minikanren.org) author: [William Byrd](http://webyrd.net/byrd_cv.pdf)
+- Script-FU in Scheme
 
 ## Game Math
 - [Intersecting a straight line using 2-point form](http://math.stackexchange.com/a/729442/83716)
