@@ -6,6 +6,7 @@
 - [Gaming](#gaming)
 - [Functional Programming](#functional-programming)
 - [Lexical Analysis](#lexical-analysis)
+- [Python](#python)
 - [SpriteKit](#spritekit)
 
 ## Algorithms
@@ -29,6 +30,9 @@
 
 ## Lexical Analysis
 - [XML Lexemes](http://stackoverflow.com/a/3623486)
+
+## Python
+- [Dynamic var assignment using namedtuple](http://stackoverflow.com/a/1325768)
 
 ## SpriteKit
 - [Colorize sprite](http://stackoverflow.com/a/24985622)
