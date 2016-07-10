@@ -33,6 +33,7 @@
 
 ## Python
 - [Dynamic var assignment using namedtuple](http://stackoverflow.com/a/1325768)
+- [Namespace imports](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
 
 ## SpriteKit
 - [Colorize sprite](http://stackoverflow.com/a/24985622)
