@@ -25,6 +25,7 @@
 
 ## Gaming
 - [itch.io](http://itch.io) - Game store
+- [3ds pokemon game](http://www.nintendo.com/games/detail/pokemon-red-version-3ds)
 
 ## Lexical Analysis
 - [XML Lexemes](http://stackoverflow.com/a/3623486)
