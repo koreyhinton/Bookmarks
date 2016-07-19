@@ -8,6 +8,7 @@
 - [Lexical Analysis](#lexical-analysis)
 - [Python](#python)
 - [SpriteKit](#spritekit)
+- [Swift](#swift)
 
 ## Algorithms
 - [LeetCode Swift](https://github.com/soapyigu/LeetCode_Swift)
@@ -40,3 +41,6 @@
 - [Colorize sprite](http://stackoverflow.com/a/24985622)
 - [colorize sprite 2](https://www.hackingwithswift.com/example-code/games/how-to-color-an-skspritenode-using-colorblendfactor)
 - [Timers](http://stackoverflow.com/a/23978854)
+
+## Swift
+- [Apeth Swift Book](http://www.apeth.com/swiftBook/)
