@@ -6,6 +6,7 @@
 - [Gaming](#gaming)
 - [Functional Programming](#functional-programming)
 - [Lexical Analysis](#lexical-analysis)
+- [Linux](#linux)
 - [Python](#python)
 - [SpriteKit](#spritekit)
 - [Swift](#swift)
@@ -32,6 +33,10 @@
 
 ## Lexical Analysis
 - [XML Lexemes](http://stackoverflow.com/a/3623486)
+
+## Linux
+- linux from scratch
+- buildroot
 
 ## Python
 - [Dynamic var assignment using namedtuple](http://stackoverflow.com/a/1325768)
